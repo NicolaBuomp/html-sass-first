@@ -1,0 +1,15 @@
+$primaryColor : red;
+$secondaryColor : yellow;
+$colorBody : grey;
+
+body{
+    background-color: $colorBody;
+}
+
+h1, h3{
+    color: $primaryColor
+}
+
+h2 {
+    color: $secondaryColor;
+}
